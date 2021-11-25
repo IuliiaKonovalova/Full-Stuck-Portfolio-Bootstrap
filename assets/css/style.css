@@ -8,13 +8,23 @@
   box-sizing: border-box;
 }
 
+/* ----- Heading ----- */
+
 header {
   margin: 0;
 
 }
 
+.bg-color-name-title {
+  background-color: #676767;
+}
+
+.heading {
+  margin-left: 50px;
+}
+
 .logo {
-  background: url('../images/rosie.jpg');
+  background: url("../images/rosie.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
