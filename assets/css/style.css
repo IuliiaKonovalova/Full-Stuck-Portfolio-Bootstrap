@@ -152,3 +152,7 @@ footer {
   color: #fafafa;
   min-height: 120px;
 }
+
+.inline-block {
+  display: inline-block;
+}
