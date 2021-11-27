@@ -53,6 +53,19 @@ h4 {
   display: table;
 }
 
+.section-column {
+  display: table-cell;
+  padding: 0 30px 30px;
+  float: none;
+}
+
+.section-heading {
+  font-family: "Exo", sans-serif;
+  font-weight: 300;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
 /*--------------------------------------------Heading*/
 
 header {
@@ -64,7 +77,7 @@ header {
 }
 
 .logo {
-  background: url("../images/rosie.jpg");
+  background: url("../images/rosie.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
