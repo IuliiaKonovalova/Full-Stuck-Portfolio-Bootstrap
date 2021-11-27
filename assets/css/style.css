@@ -328,3 +328,7 @@ footer {
   content: '';
   background-color: #fafafa;
 }
+
+.history-items {
+  margin-bottom: 30px;
+}
