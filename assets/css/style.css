@@ -351,3 +351,14 @@ footer {
   margin: 0 auto;
   max-width: 70%;
 }
+
+button[type="submit"] {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #fff;
+  background-color: #e84610;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media (min-width: 992px) {}
