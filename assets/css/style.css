@@ -345,3 +345,9 @@ footer {
   margin-top: 25px;
   margin-bottom: 20px;
 }
+
+.center-form {
+  padding-top: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+}
