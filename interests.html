@@ -237,6 +237,8 @@
           label: labels[i % labels.length]
         });
       });
+      var markerCluster = new MarkerCluster(map, markers,
+        { imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m' });
     }
   </script>
   <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
